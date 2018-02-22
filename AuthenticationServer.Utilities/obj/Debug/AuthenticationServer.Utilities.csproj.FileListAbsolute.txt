@@ -1,5 +1,0 @@
-C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\Spark.Utilities\obj\Debug\AuthenticationServer.Utilities.csprojResolveAssemblyReference.cache
-C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.Utilities\bin\Debug\AuthenticationServer.Utilities.dll
-C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.Utilities\bin\Debug\AuthenticationServer.Utilities.pdb
-C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.Utilities\obj\Debug\AuthenticationServer.Utilities.dll
-C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.Utilities\obj\Debug\AuthenticationServer.Utilities.pdb

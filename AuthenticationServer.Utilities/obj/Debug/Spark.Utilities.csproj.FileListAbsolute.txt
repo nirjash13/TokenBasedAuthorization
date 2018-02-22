@@ -1,5 +1,0 @@
-F:\Products\AplectrumHR\Spark.Utilities\bin\Debug\Spark.Utilities.dll
-F:\Products\AplectrumHR\Spark.Utilities\bin\Debug\Spark.Utilities.pdb
-F:\Products\AplectrumHR\Spark.Utilities\obj\Debug\Spark.Utilities.dll
-F:\Products\AplectrumHR\Spark.Utilities\obj\Debug\Spark.Utilities.pdb
-F:\Products\AplectrumHR\Spark.Utilities\obj\Debug\Spark.Utilities.csprojResolveAssemblyReference.cache
