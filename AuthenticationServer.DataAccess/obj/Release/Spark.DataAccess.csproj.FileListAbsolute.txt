@@ -1,0 +1,16 @@
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.DataAccess.dll.config
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.DataAccess.dll
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.DataAccess.pdb
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\EntityFramework.dll
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.Models.dll
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.Utilities.dll
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.Models.pdb
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.Utilities.pdb
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\EntityFramework.xml
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+F:\Products\AplectrumHR\Spark.DataAccess\obj\Release\Spark.DataAccess.csprojResolveAssemblyReference.cache
+F:\Products\AplectrumHR\Spark.DataAccess\obj\Release\Spark.DataAccess.dll
+F:\Products\AplectrumHR\Spark.DataAccess\obj\Release\Spark.DataAccess.pdb
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.Common.dll
+F:\Products\AplectrumHR\Spark.DataAccess\bin\Release\Spark.Common.pdb

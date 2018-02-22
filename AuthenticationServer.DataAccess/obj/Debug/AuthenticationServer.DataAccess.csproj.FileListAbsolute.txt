@@ -1,0 +1,8 @@
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\Spark.DataAccess\obj\Debug\AuthenticationServer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.DataAccess\bin\Debug\AuthenticationServer.DataAccess.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.DataAccess\bin\Debug\AuthenticationServer.DataAccess.pdb
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.DataAccess\bin\Debug\AuthenticationServer.Utilities.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.DataAccess\bin\Debug\AuthenticationServer.Utilities.pdb
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.DataAccess\obj\Debug\AuthenticationServer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.DataAccess\obj\Debug\AuthenticationServer.DataAccess.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.DataAccess\obj\Debug\AuthenticationServer.DataAccess.pdb

@@ -1,0 +1,17 @@
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\AuthenticationServer.RestLibrary.dll.config
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\AuthenticationServer.RestLibrary.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\AuthenticationServer.RestLibrary.pdb
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\log4net.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\RestSharp.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\System.Web.Http.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\System.Web.Mvc.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\log4net.xml
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\RestSharp.xml
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\System.Web.Http.xml
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\System.Web.Mvc.xml
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\obj\Debug\AuthenticationServer.RestLibrary.dll
+C:\Users\SAFKAT\Documents\Visual Studio 2015\Projects\TokenBasedAuthentication\AuthenticationServer.RestLibrary\obj\Debug\AuthenticationServer.RestLibrary.pdb
