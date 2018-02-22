@@ -296,4 +296,5 @@ __pycache__/
 TestResults/*
 TokenBasedAuthentication/bin/
 TokenBasedAuthentication/obj/
+packages/
 
