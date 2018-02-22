@@ -1,10 +1,10 @@
 ﻿using System.Reflection;
 using System.Web.Http;
 using System.Web.Http.Cors;
-using AuthenticationServer.DataAccess.Interfaces;
-using AuthenticationServer.DataAccess.Services;
 using Autofac;
 using Autofac.Integration.WebApi;
+using TokenBasedAuthentication.DataAccess.Interfaces;
+using TokenBasedAuthentication.DataAccess.Services;
 using AuthorizeAttribute = TokenBasedAuthentication.Infrastructure.AuthorizeAttribute;
 
 namespace TokenBasedAuthentication

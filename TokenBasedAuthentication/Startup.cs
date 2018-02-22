@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Web.Http;
-using AuthenticationServer.DataAccess.Interfaces;
-using AuthenticationServer.DataAccess.Services;
 using Microsoft.Owin;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
 using TokenBasedAuthentication;
+using TokenBasedAuthentication.DataAccess.Interfaces;
+using TokenBasedAuthentication.DataAccess.Services;
 using TokenBasedAuthentication.Infrastructure;
 
 [assembly: OwinStartup(typeof(Startup))]

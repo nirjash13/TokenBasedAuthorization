@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using AuthenticationServer.DataAccess.HelperModels;
-using AuthenticationServer.DataAccess.Interfaces;
-using AuthenticationServer.Utilities;
+
 using Microsoft.Owin.Security.OAuth;
+using TokenBasedAuthentication.DataAccess.HelperModels;
+using TokenBasedAuthentication.DataAccess.Interfaces;
+using TokenBasedAuthentication.Utilities;
 
 namespace TokenBasedAuthentication.Infrastructure
 {
